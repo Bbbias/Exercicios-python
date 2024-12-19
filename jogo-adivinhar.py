@@ -6,7 +6,7 @@ está na palavra secreta.
     - Se a letra digitada estiver na palavra secreta; exiba a letra;
     - Se a letra digitada não estiver na palavra secreta; exiba *.
 Faça a contagem de tentativas do seu usuário.
-"""
+""" 
 palavra_secreta = "tirante"
 tamanho_palavra = len(palavra_secreta)
 palavra_escondida = ""
